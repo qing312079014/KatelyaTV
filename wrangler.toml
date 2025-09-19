@@ -1,5 +1,5 @@
 name = "katelyatv"
-compatibility_date = "2024-09-01"
+compatibility_date = "2025-09-19"
 compatibility_flags = ["nodejs_compat"]
 pages_build_output_dir = ".vercel/output/static"
 
@@ -11,7 +11,7 @@ name = "katelyatv"
 [[env.production.d1_databases]]
 binding = "DB"
 database_name = "katelyatv-db"
-database_id = "6d580637-1f87-4ddf-8b4d-3d97254b4c33"
+database_id = "92ff9cdc-e2ff-4b53-8297-867fa7a8aa21"
 
 # 生产环境变量
 [env.production.vars]
@@ -38,7 +38,7 @@ name = "katelyatv-preview"
 [[env.preview.d1_databases]]
 binding = "DB"
 database_name = "katelyatv-db"
-database_id = "6d580637-1f87-4ddf-8b4d-3d97254b4c33"
+database_id = "92ff9cdc-e2ff-4b53-8297-867fa7a8aa21"
 
 # 预览环境变量
 [env.preview.vars]
