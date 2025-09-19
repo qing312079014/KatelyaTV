@@ -241,12 +241,6 @@
       "detail": "",
       "is_adult": false
     },
-    "lziapi": {
-      "api": "https://cj.lziapi.com/api.php/provide/vod",
-      "name": "TV-量子资源",
-      "detail": "",
-      "is_adult": false
-    },
     "jinyingzy": {
       "api": "https://jinyingzy.com/api.php/provide/vod",
       "name": "TV-金鹰点播",
